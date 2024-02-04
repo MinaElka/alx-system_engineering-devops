@@ -1,0 +1,2 @@
+#!/bim/bash
+chmod 555 hello

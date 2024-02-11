@@ -1,0 +1,14 @@
+total 52
+drwxrwxr-x 2 mina mina 4096 فبراير 11 20:25 .
+drwxrwxr-x 6 mina mina 4096 فبراير 11 19:47 ..
+-rwxrwxr-x 1 mina mina   32 فبراير 11 19:50 0-hello_world
+-rwxrwxr-x 1 mina mina   28 فبراير 11 19:57 1-confused_smiley
+-rwxrwxr-x 1 mina mina   28 فبراير 11 19:59 2-hellofile
+-rwxrwxr-x 1 mina mina   39 فبراير 11 20:02 3-twofiles
+-rwxrwxr-x 1 mina mina   35 فبراير 11 20:03 4-lastlines
+-rwxrwxr-x 1 mina mina   35 فبراير 11 20:10 5-firstlines
+-rwxrwxr-x 1 mina mina   45 فبراير 11 20:13 6-third_line
+-rwxrwxr-x 1 mina mina   74 فبراير 11 20:23 7-file
+-rwxrwxr-x 1 mina mina   46 فبراير 11 20:25 8-cwd_state
+-rw-rw-r-- 1 mina mina  801 فبراير 11 20:14 iacta
+-rw-rw-r-- 1 mina mina   30 فبراير 11 19:48 README.md
